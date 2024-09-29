@@ -1,0 +1,32 @@
+[
+    {
+      "id": "1",
+      "name": "Rome",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmqKNw85ZAEhHivTeO8Mo_Mk6vNf3ydFHdTA&s"
+    },
+    {
+      "id": "2",
+      "name": "Vatican City",
+      "image": "https://cdn.britannica.com/96/175196-050-EA0EF9D1/St-Peters-Basilica-Vatican-City.jpg"
+    },
+    {
+      "id": "3",
+      "name": "EdinBurg",
+      "image": "https://cdn.britannica.com/06/154106-050-CE25831D/Edinburgh-Scotland.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Los Angeles",
+      "image": "https://bucket-files.city-sightseeing.com/blog/2023/05/los-angeles-city-skyline.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Las Vegas",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQBaqySfc8xaFpfUG8ST3WX33H3BULiUqtVw&s"
+    },
+    {
+      "id": "6",
+      "name": "Goa",
+      "image": "https://images.travelandleisureasia.com/wp-content/uploads/sites/3/2024/03/01154004/palolem-beach-goa-image-credit-ozerkizildagshutterstock.jpeg"
+    }
+  ]

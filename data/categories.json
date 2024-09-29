@@ -1,0 +1,62 @@
+[
+    {
+      "id": "1",
+      "name": "USA",
+      "image": "https://www.flamingotravels.co.in/blog/wp-content/uploads/2023/01/Feture-image.jpg"
+    },
+    {
+      "id": "2",
+      "name": "UK",
+      "image": "https://cdn.insuremytrip.com/resources/29277/travel_insurance_uk_tower_bridge-1.jpg"
+    },
+    {
+      "id": "3",
+      "name": "UAE",
+      "image": "https://media.cntravellerme.com/photos/6568886c4e664d4bc1517d49/16:9/w_2560%2Cc_limit/1267688711"
+    },
+    {
+        "id": "4",
+        "name": "Maldives",
+        "image": "https://visitmaldives.s3.amazonaws.com/kobdmEY8/c/4yvh1rdl-shareable_image.jpg"
+      },
+      {
+        "id": "5",
+        "name": "Switzerland",
+        "image": "https://www.alphatrad.com/sites/alphatrad.com/files/images/articles/what-are-the-languages-spoken-in-switzerland.jpg"
+      },
+      {
+        "id": "6",
+        "name": "Singapore",
+        "image": "https://img.veenaworld.com/wp-content/uploads/2022/04/julien-de-salaberry-viwdmfrbXfI-unsplash.jpg"
+      },
+      {
+        "id": "7",
+        "name": "France",
+        "image": "https://www.usatoday.com/gcdn/-mm-/f5ced04dc77b6d3630b97955a876a5f6e56cae58/c=0-128-2484-1531/local/-/media/2015/04/20/USATODAY/USATODAY/635651437609910786-ThinkstockPhotos-178626933.jpg?width=660&height=373&fit=crop&format=pjpg&auto=webp"
+      },
+      {
+        "id": "8",
+        "name": "Turkey",
+        "image": "https://wise.com/imaginary-v2/91b96570e98636f470a43ad2365517fc.jpg?width=1200"
+      },
+      {
+        "id": "9",
+        "name": "Japan",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/230406015747-01-shinjuku-tokyo-covid-040720-file.jpg?c=16x9&q=h_833,w_1480,c_fill"
+      },
+      {
+        "id": "10",
+        "name": "Vietnam",
+        "image": "https://b2463653.smushcdn.com/2463653/wp-content/uploads/2024/03/Vietnam-landscape-scaled.jpg?lossy=0&strip=1&webp=1"
+      },
+      {
+        "id": "11",
+        "name": "IceLand",
+        "image": "https://cdn.britannica.com/71/73371-050-9DFAEC1E/Reykjavik-Iceland.jpg"
+      },
+      {
+        "id": "12",
+        "name": "Qatar",
+        "image": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/482000/482003-Doha-And-Vicinity.jpg"
+      }
+  ]

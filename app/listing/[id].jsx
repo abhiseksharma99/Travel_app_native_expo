@@ -14,26 +14,26 @@ const ListingDetails = () => {
   const listing = listingData.find((item) => item.id === id);
   const router = useRouter();
 
-  const scrollY = useSharedValue(0); // Shared value for scroll position
+  const scrollY = useSharedValue(0);
 
   const scrollHandler = useAnimatedScrollHandler({
     onScroll: (event) => {
-      scrollY.value = event.contentOffset.y; // Update scroll position
+      scrollY.value = event.contentOffset.y;
     },
   });
 
-  // Adjusted animation for stretching on scroll down
+
   const imageAnimatedStyle = useAnimatedStyle(() => {
     const translateY = interpolate(
       scrollY.value,
-      [0, IMG_HEIGHT], // Reacts when scrolling down (0 to IMG_HEIGHT)
-      [0, IMG_HEIGHT * 0.3] // Image moves down slightly
+      [0, IMG_HEIGHT],
+      [0, IMG_HEIGHT * 0.3]
     );
 
     const scale = interpolate(
       scrollY.value,
-      [0, IMG_HEIGHT], // Reacts when scrolling down (0 to IMG_HEIGHT)
-      [1, 1.3] // Image zooms in when scrolling down
+      [0, IMG_HEIGHT], 
+      [1, 1.3] 
     );
 
     return {
@@ -74,7 +74,7 @@ const ListingDetails = () => {
         >
           <Animated.Image
             source={{ uri: listing.image }}
-            style={[{ width: width, height: IMG_HEIGHT }, imageAnimatedStyle]} // Apply animated styles
+            style={[{ width: width, height: IMG_HEIGHT }, imageAnimatedStyle]}
           />
           <View className='p-5 bg-white'>
             <Text className='text-xl text-black font-bold'>{listing.name}</Text>

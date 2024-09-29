@@ -1,0 +1,32 @@
+[
+    {
+      "id": "1",
+      "name": "Jammu & Kashmir",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJmD5BFLSz4kM16W2SOsrpxej3nCwbFadmjA&s"
+    },
+    {
+      "id": "2",
+      "name": "Manali",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRClGa1ZJwUdBcapN2oseIJ0DAX806kO_r9sg&s"
+    },
+    {
+      "id": "3",
+      "name": "Bali",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/230310152102-bali-stock.jpg?c=16x9&q=h_833,w_1480,c_fill"
+    },
+    {
+      "id": "4",
+      "name": "Pargue",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Prague_%286365119737%29.jpg/800px-Prague_%286365119737%29.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Amsterdam",
+      "image": "https://static01.nyt.com/images/2023/09/24/multimedia/24-36Hrs-Amsterdam-01-01-cwqt/24-36Hrs-Amsterdam-01-01-cwqt-videoSixteenByNineJumbo1600.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Abu-Dhabi",
+      "image": "https://visitabudhabi.ae/-/media/project/vad/homepage/november-2023/regions-map/admap-dsk-1-19-12-01.jpg"
+    }
+  ]

@@ -1,0 +1,62 @@
+[
+    {
+      "id": "1",
+      "name": "Uttrakhand",
+      "image": "https://media.istockphoto.com/id/484389570/photo/himalayas.jpg?s=612x612&w=0&k=20&c=6jM32XJBWlvv6x7AF-av52jlncPkz5hn_AEhjaDSFYI="
+    },
+    {
+      "id": "2",
+      "name": "Manali",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPIbnIXVsPGKfxLM3WmTd0sLjErQdVM-61Dg&s"
+    },
+    {
+      "id": "3",
+      "name": "Agra",
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_yt_blog_c_fill_q_auto:good_f_auto_w_800_h_500/v1534158986/AgraFort_1534158959.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Goa",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a7/1a/90/goa-quick-guide-largejpg.jpg?w=1400&h=1400&s=1"
+      },
+      {
+        "id": "5",
+        "name": "Kashmir",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4kM8HPR406BoR95sE3Jx78Tx6KNiNTaO9Hg&s"
+      },
+      {
+        "id": "6",
+        "name": "Rajasthan",
+        "image": "https://assets.vogue.in/photos/5ce41ea8b803113d138f5cd2/16:9/w_1920,h_1080,c_limit/Jaipur-Travel-Shopping-Restaurants.jpg"
+      },
+      {
+        "id": "7",
+        "name": "Meghalaya",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU89VmpH2EZKhhHBAqChWMAWLkPTR7oUSmNA&s"
+      },
+      {
+        "id": "8",
+        "name": "Istanbul",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTvq2gANhIaNukLe6rACPntOsuRpXTIKuoKA&s"
+      },
+      {
+        "id": "9",
+        "name": "Los Angeles",
+        "image": "https://cdn.britannica.com/40/94540-050-789B2064/Palm-trees-skyline-Los-Angeles-background.jpg"
+      },
+      {
+        "id": "10",
+        "name": "New York",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwUEkz04uwLG5QFFVGsXfZaPEGN0ZO-Et3IA&s"
+      },
+      {
+        "id": "11",
+        "name": "Kattegat",
+        "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2019/01/kattegat-Vikings.jpg"
+      },
+      {
+        "id": "12",
+        "name": "Wessex",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxST5Ezm0XykB5mxjxKlaedWIruOSNpX9HOw&s"
+      }
+  ]

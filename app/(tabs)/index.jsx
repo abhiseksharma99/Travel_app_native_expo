@@ -15,7 +15,6 @@ const index = () => {
   const [category, setCategory] = useState('All');
 
   const onCatChanged = (category) => {
-    console.log('Selected Category:', category);
     setCategory(category);
   };
 
@@ -29,7 +28,7 @@ const index = () => {
             <TouchableOpacity onPress={() => {}}>
               <Image
                 source={{
-                  uri: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2rYr8ls8iXC84TxcucflJXLuQti5KeH5N-rAn7Z4yUP-NfuQtgkdihkVSQEte0fSvzEk&usqp=CAU',
+                  uri: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUx2JzQ6PrAImdUcQWFydMhD_gdv4cNVZggw&s',
                 }}
                 className="w-10 h-10 rounded-full ml-4"
               />
